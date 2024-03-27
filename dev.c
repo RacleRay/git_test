@@ -8,7 +8,11 @@
 #include <stdio.h>
 
 int main() {
-    printf("test fixed");
+<<<<<<< HEAD
+    printf("test conflict");
     printf("ohhhhh");
+=======
+    printf("test conflict");
+>>>>>>> main
     return 0;
 }
