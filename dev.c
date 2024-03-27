@@ -8,11 +8,7 @@
 #include <stdio.h>
 
 int main() {
-<<<<<<< HEAD
     printf("test conflict");
     printf("ohhhhh");
-=======
-    printf("test conflict");
->>>>>>> main
     return 0;
 }
