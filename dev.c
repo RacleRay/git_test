@@ -8,6 +8,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("test");
+    printf("test conflict");
     return 0;
 }
