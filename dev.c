@@ -8,6 +8,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("test");
+    printf("test fixed");
+    printf("ohhhhh");
     return 0;
 }
